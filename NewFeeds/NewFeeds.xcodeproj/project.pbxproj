@@ -17,6 +17,15 @@
 		A62DC0792293E8000009FDE4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A62DC0772293E8000009FDE4 /* LaunchScreen.storyboard */; };
 		A62DC0842293E8000009FDE4 /* NewFeedsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A62DC0832293E8000009FDE4 /* NewFeedsTests.swift */; };
 		A62DC08F2293E8000009FDE4 /* NewFeedsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A62DC08E2293E8000009FDE4 /* NewFeedsUITests.swift */; };
+		A6BB00F82293EB75000062A7 /* UIImageView+KingFisher.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6BB00F72293EB75000062A7 /* UIImageView+KingFisher.swift */; };
+		A6BB00FE2293EC74000062A7 /* Reusable.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6BB00FD2293EC74000062A7 /* Reusable.swift */; };
+		A6BB01082293F12C000062A7 /* NFImageItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6BB01072293F12C000062A7 /* NFImageItem.swift */; };
+		A6BB010C2293F15B000062A7 /* NFFeed.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6BB010B2293F15B000062A7 /* NFFeed.swift */; };
+		A6BB010E2293F169000062A7 /* NFDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6BB010D2293F169000062A7 /* NFDetail.swift */; };
+		A6BB01102293F1AB000062A7 /* NFPublisher.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6BB010F2293F1AB000062A7 /* NFPublisher.swift */; };
+		A6BB01122293F213000062A7 /* ParseTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6BB01112293F213000062A7 /* ParseTests.swift */; };
+		A6BB01142293F5C0000062A7 /* NFVideoContent.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6BB01132293F5C0000062A7 /* NFVideoContent.swift */; };
+		A6BB01162293F7AD000062A7 /* NFDetailSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6BB01152293F7AD000062A7 /* NFDetailSection.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +62,15 @@
 		A62DC08A2293E8000009FDE4 /* NewFeedsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NewFeedsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A62DC08E2293E8000009FDE4 /* NewFeedsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewFeedsUITests.swift; sourceTree = "<group>"; };
 		A62DC0902293E8000009FDE4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A6BB00F72293EB75000062A7 /* UIImageView+KingFisher.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIImageView+KingFisher.swift"; sourceTree = "<group>"; };
+		A6BB00FD2293EC74000062A7 /* Reusable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Reusable.swift; sourceTree = "<group>"; };
+		A6BB01072293F12C000062A7 /* NFImageItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NFImageItem.swift; sourceTree = "<group>"; };
+		A6BB010B2293F15B000062A7 /* NFFeed.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NFFeed.swift; sourceTree = "<group>"; };
+		A6BB010D2293F169000062A7 /* NFDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NFDetail.swift; sourceTree = "<group>"; };
+		A6BB010F2293F1AB000062A7 /* NFPublisher.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NFPublisher.swift; sourceTree = "<group>"; };
+		A6BB01112293F213000062A7 /* ParseTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParseTests.swift; sourceTree = "<group>"; };
+		A6BB01132293F5C0000062A7 /* NFVideoContent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NFVideoContent.swift; sourceTree = "<group>"; };
+		A6BB01152293F7AD000062A7 /* NFDetailSection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NFDetailSection.swift; sourceTree = "<group>"; };
 		B6929DD24CA7D1F51C7E1996 /* Pods-NewFeeds.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NewFeeds.release.xcconfig"; path = "Target Support Files/Pods-NewFeeds/Pods-NewFeeds.release.xcconfig"; sourceTree = "<group>"; };
 		C2BE3152DC9F5BC6A9D217A0 /* Pods-NewFeeds.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NewFeeds.debug.xcconfig"; path = "Target Support Files/Pods-NewFeeds/Pods-NewFeeds.debug.xcconfig"; sourceTree = "<group>"; };
 		DEE847208498CA53475E3057 /* Pods-NewFeedsUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NewFeedsUITests.release.xcconfig"; path = "Target Support Files/Pods-NewFeedsUITests/Pods-NewFeedsUITests.release.xcconfig"; sourceTree = "<group>"; };
@@ -99,7 +117,6 @@
 				FDD93F38593AFECB9FB67CAB /* Pods-NewFeedsUITests.debug.xcconfig */,
 				DEE847208498CA53475E3057 /* Pods-NewFeedsUITests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -144,6 +161,10 @@
 				A62DC0752293E8000009FDE4 /* Assets.xcassets */,
 				A62DC0772293E8000009FDE4 /* LaunchScreen.storyboard */,
 				A62DC07A2293E8000009FDE4 /* Info.plist */,
+				A6BB00F32293EB0D000062A7 /* Models */,
+				A6BB00F52293EB2D000062A7 /* Features */,
+				A6BB00F62293EB39000062A7 /* Services */,
+				A6BB00F42293EB20000062A7 /* Extensions */,
 			);
 			path = NewFeeds;
 			sourceTree = "<group>";
@@ -153,6 +174,7 @@
 			children = (
 				A62DC0832293E8000009FDE4 /* NewFeedsTests.swift */,
 				A62DC0852293E8000009FDE4 /* Info.plist */,
+				A6BB01112293F213000062A7 /* ParseTests.swift */,
 			);
 			path = NewFeedsTests;
 			sourceTree = "<group>";
@@ -164,6 +186,58 @@
 				A62DC0902293E8000009FDE4 /* Info.plist */,
 			);
 			path = NewFeedsUITests;
+			sourceTree = "<group>";
+		};
+		A6BB00F32293EB0D000062A7 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				A6BB00FF2293EF92000062A7 /* NewFeeds */,
+				A6BB01002293EF9F000062A7 /* Details */,
+				A6BB01072293F12C000062A7 /* NFImageItem.swift */,
+				A6BB010F2293F1AB000062A7 /* NFPublisher.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		A6BB00F42293EB20000062A7 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				A6BB00F72293EB75000062A7 /* UIImageView+KingFisher.swift */,
+				A6BB00FD2293EC74000062A7 /* Reusable.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		A6BB00F52293EB2D000062A7 /* Features */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Features;
+			sourceTree = "<group>";
+		};
+		A6BB00F62293EB39000062A7 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		A6BB00FF2293EF92000062A7 /* NewFeeds */ = {
+			isa = PBXGroup;
+			children = (
+				A6BB010B2293F15B000062A7 /* NFFeed.swift */,
+				A6BB01132293F5C0000062A7 /* NFVideoContent.swift */,
+			);
+			path = NewFeeds;
+			sourceTree = "<group>";
+		};
+		A6BB01002293EF9F000062A7 /* Details */ = {
+			isa = PBXGroup;
+			children = (
+				A6BB010D2293F169000062A7 /* NFDetail.swift */,
+				A6BB01152293F7AD000062A7 /* NFDetailSection.swift */,
+			);
+			path = Details;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -392,7 +466,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A6BB010E2293F169000062A7 /* NFDetail.swift in Sources */,
+				A6BB01142293F5C0000062A7 /* NFVideoContent.swift in Sources */,
+				A6BB01082293F12C000062A7 /* NFImageItem.swift in Sources */,
+				A6BB00FE2293EC74000062A7 /* Reusable.swift in Sources */,
+				A6BB01162293F7AD000062A7 /* NFDetailSection.swift in Sources */,
+				A6BB01102293F1AB000062A7 /* NFPublisher.swift in Sources */,
 				A62DC0712293E7FE0009FDE4 /* ViewController.swift in Sources */,
+				A6BB00F82293EB75000062A7 /* UIImageView+KingFisher.swift in Sources */,
+				A6BB010C2293F15B000062A7 /* NFFeed.swift in Sources */,
 				A62DC06F2293E7FE0009FDE4 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -402,6 +484,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A62DC0842293E8000009FDE4 /* NewFeedsTests.swift in Sources */,
+				A6BB01122293F213000062A7 /* ParseTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

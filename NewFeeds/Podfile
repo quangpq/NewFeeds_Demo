@@ -7,6 +7,9 @@ target 'NewFeeds' do
 
   # Pods for NewFeeds
   pod 'Kingfisher', '5.5.0'
+  pod 'Codextended'
+  pod 'Alamofire', '4.8.2'
+  pod 'KRProgressHUD'
 
   target 'NewFeedsTests' do
     inherit! :search_paths

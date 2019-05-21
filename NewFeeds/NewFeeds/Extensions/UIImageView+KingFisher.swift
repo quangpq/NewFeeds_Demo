@@ -10,7 +10,7 @@ import UIKit
 import Kingfisher
 
 extension UIImageView {
-    func setWebImage(_ urlString: String?, completed: ((Bool) -> ())?) {
+    func setWebImage(_ urlString: String?, placeholder: UIImage? = nil, completed: ((Bool) -> ())? = nil) {
         
         if let urlStr = urlString?.addingPercentEncoding(withAllowedCharacters: .urlQueryAllowed)
         {
@@ -22,7 +22,7 @@ extension UIImageView {
 //                >> RoundCornerImageProcessor(cornerRadius: 20)
             self.kf.setImage(
                 with: url,
-//                placeholder: UIImage(named: "placeholderImage"),
+                placeholder: placeholder,
                 options: [
                     .processor(processor),
                     .scaleFactor(UIScreen.main.scale),
@@ -36,9 +36,13 @@ extension UIImageView {
                     completed?(true)
                 case .failure(let error):
                     completed?(false)
-                    print("Download image failed: \(error.localizedDescription)")
+//                    print("Download image failed: \(error.localizedDescription)")
                 }
             }
         }
+    }
+    
+    func cancelDownloadTask() {
+        self.kf.cancelDownloadTask()
     }
 }

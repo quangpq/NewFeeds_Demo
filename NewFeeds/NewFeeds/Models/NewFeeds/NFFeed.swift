@@ -8,10 +8,14 @@
 
 import Foundation
 
+struct NFFeedArray: Codable {
+    let items: [NFFeed]
+}
+
 struct NFFeed: Codable {
     let id: String
     let title: String
-    let description: Int
+    let description: String
     let dateString: String
     let type: ContentType
     let originURL: String
@@ -31,6 +35,15 @@ struct NFFeed: Codable {
         case avatar
         case images
         case content
+    }
+    
+    func getPreviewUrl() -> String? {
+        if let avatar = avatar {
+            return avatar.href
+        } else if let images = images {
+            return images.first?.href
+        }
+        return nil
     }
 }
 

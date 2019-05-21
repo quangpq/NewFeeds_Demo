@@ -1,16 +1,32 @@
 PODS:
+  - Alamofire (4.8.2)
+  - Codextended (0.3.0)
   - Kingfisher (5.5.0)
+  - KRActivityIndicatorView (3.0.2)
+  - KRProgressHUD (3.4.1):
+    - KRActivityIndicatorView (= 3.0.2)
 
 DEPENDENCIES:
+  - Alamofire (= 4.8.2)
+  - Codextended
   - Kingfisher (= 5.5.0)
+  - KRProgressHUD
 
 SPEC REPOS:
   https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Codextended
     - Kingfisher
+    - KRActivityIndicatorView
+    - KRProgressHUD
 
 SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  Codextended: f384271b8694376ad766ddbf2a011efbfdcee905
   Kingfisher: 6fe5e67a90fd335e49b0f5c075ff55ac5ebedd94
+  KRActivityIndicatorView: a2022d5d3e366207d2690f6bcc550f83aa91241b
+  KRProgressHUD: 115363b48feb530ab1f36c4146ed22e779e0f5aa
 
-PODFILE CHECKSUM: 9edde384df88a89531622b747f8df7fb1e5ba8aa
+PODFILE CHECKSUM: 897ded32a0c270c8d2afec91f6b1685e0c0ec658
 
 COCOAPODS: 1.6.1

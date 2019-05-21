@@ -1,0 +1,907 @@
+{
+  "items": [
+    {
+      "document_id": "7wx5m2emp3r",
+      "title": "Thời buổi nào rồi còn viết thư tay: Thời của tình yêu, những vấn vương và đôi lời không dám nói. ",
+      "description": "Anh Lưu còn tận mắt thấy được những tin nhắn trao đổi, gạ gẫm và loạt hình ảnh vô cùng nhạy cảm của vợ và nhân tình.",
+      "content_type": "overview",
+      "published_date": "2019-03-06T00:05:00Z",
+      "publisher": {
+        "id": "ahf_24h",
+        "name": "24H",
+        "icon": "https://24h.com.vn/publisher_icon.png"
+      },
+      "origin_url": "https://24h.com.vn/cong-phuong-lap-cong.html",
+      "avatar": null,
+      "images": null,
+      "content": null
+    },
+    {
+      "document_id": "18g3wjklzvj",
+      "title": "Không ngờ những ốc đảo thiên đường này lại mọc ngay giữa sa mạc. Không ngờ những ốc đảo thiên đường này",
+      "description": "Wadi Bani Khalid, Oman: Vùng Sharqiyah là một trong những khu vực đẹp nhất ở Oman và là nơi có ốc đảo tuyệt đẹp Wadi Bani Khalid.",
+      "content_type": "story",
+      "published_date": "2019-03-07T19:00:00Z",
+      "publisher": {
+        "id": "ahf_24h",
+        "name": "24h",
+        "icon": "http://cdn.marketplaceimages.windowsphone.com/v8/images/43a06676-4ee2-4875-afb5-03c3d9128679?imageType=ws_icon_medium"
+      },
+      "origin_url": "https://www.24h.com.vn/du-lich-24h/khong-ngo-nhung-oc-dao-thien-duong-nay-lai-moc-ngay-giua-sa-mac-c76a1035179.html",
+      "avatar": {
+        "href": "https://cdn.24h.com.vn/upload/1-2019/images/2019-03-14/1552497828-170-5-1551931826-width650height432.jpg",
+        "main_color": "#f4b541",
+        "width": 650,
+        "height": 432
+      },
+      "images": [
+        {
+          "href": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzSz6-DpHhDhwKKc9IsBVxctIsTLWzPss0z6-lLaHRtWZBOHoSxA",
+          "main_color": "#f4b541",
+          "width": 742,
+          "height": 650
+        },
+        {
+          "href": "https://www.ingredientsnetwork.com/47/pdcnewsitem/07/34/66/natural.jpeg",
+          "main_color": "#f49a41",
+          "width": 650,
+          "height": 975
+        },
+        {
+          "href": "https://www.assureshift.in/sites/default/files/images/content-images/lonavala-tour-from-pune.jpg",
+          "main_color": "#f46a41",
+          "width": 650,
+          "height": 914
+        },
+        {
+          "href": "https://www.assureshift.in/sites/default/files/images/content-images/lonavala-tour-from-pune.jpg",
+          "main_color": "#41aff4",
+          "width": 650,
+          "height": 478
+        }
+      ],
+      "content": null
+    },
+    {
+      "document_id": "18g3wjklzvj",
+      "title": "Không ngờ những ốc đảo thiên đường này lại mọc ngay giữa sa mạc. Wadi Bani Khalid, Oman: Vùng Sharqiyah là một trong những khu vực đẹp nhất ở Oman và là nơi có ốc đảo tuyệt đẹp Wadi Bani Khalid. Không ngờ những ốc đảo thiên đường này lại mọc ngay giữa sa mạc.",
+      "description": "Wadi Bani Khalid, Oman: Vùng Sharqiyah là một trong những khu vực đẹp nhất ở Oman và là nơi có ốc đảo tuyệt đẹp Wadi Bani Khalid.",
+      "content_type": "story",
+      "published_date": "2019-03-07T19:00:00Z",
+      "publisher": {
+        "id": "ahf_24h",
+        "name": "24h",
+        "icon": "http://cdn.marketplaceimages.windowsphone.com/v8/images/43a06676-4ee2-4875-afb5-03c3d9128679?imageType=ws_icon_medium"
+      },
+      "origin_url": "https://www.24h.com.vn/du-lich-24h/khong-ngo-nhung-oc-dao-thien-duong-nay-lai-moc-ngay-giua-sa-mac-c76a1035179.html",
+      "avatar": {
+        "href": "https://www.assureshift.in/sites/default/files/images/content-images/lonavala-tour-from-pune.jpg",
+        "main_color": "#f4b541",
+        "width": 650,
+        "height": 432
+      },
+      "images": [
+        {
+          "href": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzSz6-DpHhDhwKKc9IsBVxctIsTLWzPss0z6-lLaHRtWZBOHoSxA",
+          "main_color": "#f4b541",
+          "width": 742,
+          "height": 650
+        },
+        {
+          "href": "https://www.ingredientsnetwork.com/47/pdcnewsitem/07/34/66/natural.jpeg",
+          "main_color": "#f49a41",
+          "width": 650,
+          "height": 975
+        },
+        {
+          "href": "https://www.assureshift.in/sites/default/files/images/content-images/lonavala-tour-from-pune.jpg",
+          "main_color": "#f46a41",
+          "width": 650,
+          "height": 914
+        },
+        {
+          "href": "https://www.assureshift.in/sites/default/files/images/content-images/lonavala-tour-from-pune.jpg",
+          "main_color": "#41aff4",
+          "width": 650,
+          "height": 478
+        }
+      ],
+      "content": null
+    },
+    {
+      "document_id": "18g3wjklzvj",
+      "title": "Vì sao đàn ông Anh quốc lạnh như băng lại hấp dẫn phụ nữ đến vậy?",
+      "description": "",
+      "content_type": "gallery",
+      "published_date": "2019-03-07T19:00:00Z",
+      "publisher": {
+        "id": "ahf_24h",
+        "name": "24H",
+        "icon": "https://24h.com.vn/publisher_icon.png"
+      },
+      "origin_url": "https://www.24h.com.vn/thoi-trang/ve-dep-kieu-thoi-ong-ba-anh-sexy-va-nu-tinh-den-nghet-tho-c78a1033681i392234.html",
+      "avatar": null,
+      "images": [
+        {
+          "href": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzSz6-DpHhDhwKKc9IsBVxctIsTLWzPss0z6-lLaHRtWZBOHoSxA",
+          "main_color": "#41f49d",
+          "width": 650,
+          "height": 650
+        },
+        {
+          "href": "https://cdn.24h.com.vn/upload/1-2019/images/2019-03-07/1551976566-737-701a3cf1-1783-465a-87b4-cd62a71083a0-1551965905-width650height975.jpeg",
+          "main_color": "#7f41f4",
+          "width": 650,
+          "height": 650
+        },
+        {
+          "href": "https://cdn.24h.com.vn/upload/1-2019/images/2019-03-07/1551976566-79-sao-nam-1-1551956692-width650height914.jpg",
+          "main_color": "#d041f4",
+          "width": 650,
+          "height": 650
+        },
+        {
+          "href": "https://cdn.24h.com.vn/upload/1-2019/images/2019-03-07/1551976566-963-sao-nam-3-1551956716-width650height487.jpg",
+          "main_color": "#f44176",
+          "width": 650,
+          "height": 478
+        }
+      ],
+      "content": null
+    },
+    {
+      "document_id": "1z89r3pdmvn",
+      "title": "Trấn Thành, Nguyên Khang, Erik... ai hoá mỹ nam, ai \"thảm hoạ nhan sắc\" sau thẩm mỹ?",
+      "description": "",
+      "content_type": "gallery",
+      "published_date": "2019-03-07T19:00:00Z",
+      "publisher": {
+        "id": "ahf_24h",
+        "name": "24H",
+        "icon": "https://24h.com.vn/publisher_icon.png"
+      },
+      "origin_url": "https://www.24h.com.vn/thoi-trang/ve-dep-kieu-thoi-ong-ba-anh-sexy-va-nu-tinh-den-nghet-tho-c78a1033681i392234.html",
+      "avatar": null,
+      "images": [
+        {
+          "href": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzSz6-DpHhDhwKKc9IsBVxctIsTLWzPss0z6-lLaHRtWZBOHoSxA",
+          "main_color": "#f4b541",
+          "width": 742,
+          "height": 650
+        },
+        {
+          "href": "https://www.ingredientsnetwork.com/47/pdcnewsitem/07/34/66/natural.jpeg",
+          "main_color": "#f49a41",
+          "width": 650,
+          "height": 975
+        },
+        {
+          "href": "https://www.assureshift.in/sites/default/files/images/content-images/lonavala-tour-from-pune.jpg",
+          "main_color": "#f46a41",
+          "width": 650,
+          "height": 914
+        },
+        {
+          "href": "https://www.assureshift.in/sites/default/files/images/content-images/lonavala-tour-from-pune.jpg",
+          "main_color": "#41aff4",
+          "width": 650,
+          "height": 478
+        }
+      ],
+      "content": null
+    },
+    {
+      "document_id": "26n1vqjy4qm",
+      "title": "Vì sao đàn ông Anh quốc lạnh như băng lại hấp dẫn phụ nữ đến vậy?",
+      "description": "",
+      "content_type": "gallery",
+      "published_date": "2019-03-07T19:00:00Z",
+      "publisher": {
+        "id": "ahf_24h",
+        "name": "24H",
+        "icon": "https://24h.com.vn/publisher_icon.png"
+      },
+      "origin_url": "https://www.24h.com.vn/thoi-trang/ve-dep-kieu-thoi-ong-ba-anh-sexy-va-nu-tinh-den-nghet-tho-c78a1033681i392234.html",
+      "avatar": null,
+      "images": [
+        {
+          "href": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzSz6-DpHhDhwKKc9IsBVxctIsTLWzPss0z6-lLaHRtWZBOHoSxA",
+          "main_color": "#41f49d",
+          "width": 650,
+          "height": 650
+        },
+        {
+          "href": "https://cdn.24h.com.vn/upload/1-2019/images/2019-03-07/1551976566-737-701a3cf1-1783-465a-87b4-cd62a71083a0-1551965905-width650height975.jpeg",
+          "main_color": "#7f41f4",
+          "width": 650,
+          "height": 650
+        },
+        {
+          "href": "https://cdn.24h.com.vn/upload/1-2019/images/2019-03-07/1551976566-79-sao-nam-1-1551956692-width650height914.jpg",
+          "main_color": "#d041f4",
+          "width": 650,
+          "height": 650
+        },
+        {
+          "href": "https://cdn.24h.com.vn/upload/1-2019/images/2019-03-07/1551976566-963-sao-nam-3-1551956716-width650height487.jpg",
+          "main_color": "#f44176",
+          "width": 650,
+          "height": 478
+        }
+      ],
+      "content": null
+    },
+    {
+      "document_id": "6ej0rlqvpx2",
+      "title": "Vợ \"ca sĩ hội chợ\" Phạm Trưởng: \"Mỗi tối, việc của tôi là đi ngủ, các con anh ấy lo\"",
+      "description": "Ít ai biết, \"nam ca sĩ hội chợ\" Phạm Trưởng có cuộc sống hôn nhân vô cùng hạnh phúc với bà xã Lê Nga và 3 con nhỏ.",
+      "published_date": "2019-03-08T00:30:00Z",
+      "publisher": {
+        "id": "ahf_24h",
+        "name": "24H",
+        "icon": "https://24h.com.vn/publisher_icon.png"
+      },
+      "origin_url": "https://24h.com.vn/cong-phuong-lap-cong.html",
+      "images": [
+        {
+          "href": "https://image.24h.com.vn/upload/1-2019/images/2019-02-06/1549457105-368-thumbnail.jpg",
+          "main_color": "#dbd9d9",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "href": "https://image.eva.vn/upload/1-2019/images/2019-01-28/1548673587-252-thumbnail.jpg",
+          "main_color": "#b79f9f",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "href": "https://image.eva.vn/upload/1-2019/images/2019-01-28/1548673587-252-thumbnail.jpg",
+          "main_color": "#635757",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "content_type": "video",
+      "avatar": {
+        "href": "https://image.eva.vn/upload/1-2019/images/2019-03-07/1551946578-374-thumbnail.jpg",
+        "main_color": "#443a3a",
+        "width": 480,
+        "height": 640
+      },
+      "content": {
+        "href": "https://image.eva.vn/upload/1-2019/videoclip/2019-03-07/1551949655-embe.mp4",
+        "preview_image": {
+          "href": "https://image.eva.vn/upload/1-2019/images/2019-03-07/1551946578-374-thumbnail.jpg",
+          "main_color": "#563a3a",
+          "width": 480,
+          "height": 640
+        },
+        "duration": 5426
+      }
+    },
+    {
+      "document_id": "7wx5m2emp3r",
+      "title": "Bị phát ",
+      "description": "Anh Lưu còn tận mắt thấy được những tin nhắn trao đổi, gạ gẫm và loạt hình ảnh vô cùng nhạy cảm của vợ và nhân tình.",
+      "content_type": "article",
+      "published_date": "2019-03-06T00:05:00Z",
+      "publisher": {
+        "id": "ahf_24h",
+        "name": "24H",
+        "icon": "https://24h.com.vn/publisher_icon.png"
+      },
+      "origin_url": "https://24h.com.vn/cong-phuong-lap-cong.html",
+      "avatar": {
+        "href": "https://image.eva.vn/upload/1-2019/images/2019-03-08/1552005126-487-thumbnail.jpg",
+        "main_color": "#383434",
+        "width": 480,
+        "height": 640
+      },
+      "images": null,
+      "content": null
+    },
+    {
+      "document_id": "8w1o4jrgqzv",
+      "title": "Danh ca Ngọc Sơn tuyên bố \"Men 100%\" nhưng chưa lấy vợ vì lí do này Danh ca Ngọc Sơn tuyên bố \"Men 100%\" nhưng chưa lấy vợ vì lí do này",
+      "description": "Từng vướng nhiều tin đồn về giới tính, Ngọc Sơn đã có câu trả lời thẳng thắn trên sóng truyền hình.",
+      "content_type": "article",
+      "published_date": "2019-03-04T00:05:00Z",
+      "publisher": {
+        "id": "ahf_24h",
+        "name": "24H",
+        "icon": "https://24h.com.vn/publisher_icon.png"
+      },
+      "origin_url": "https://24h.com.vn/cong-phuong-lap-cong.html",
+      "avatar": {
+        "href": "https://image.24h.com.vn/upload/1-2019/images/2019-03-08/1552006515-133-15519387835563-thumbnail.jpg",
+        "main_color": "#ea9191",
+        "width": 480,
+        "height": 640
+      },
+      "images": [
+        {
+          "href": "https://image.24h.com.vn/upload/1-2019/images/2019-03-08/1552006515-133-15519387835563-thumbnail.jpg",
+          "main_color": "#ea9191",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "href": "https://image.eva.vn/upload/1-2019/images/2019-01-28/1548673587-252-thumbnail.jpg",
+          "main_color": "#ea9191",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "content": null
+    },
+    {
+      "document_id": "92o4n18ylkj",
+      "title": "Nữ diễn viên 4 đời chồng mở show trò chuyện giúp phụ nữ tự tin nhân dịp 8/3",
+      "description": "Nữ diễn viên quyết định công bố chương trình đặc biệt dành riêng cho phụ nữ mà cô ấp ủ bấy lâu.",
+      "content_type": "article",
+      "published_date": "2019-03-04T00:05:00Z",
+      "publisher": {
+        "id": "ahf_24h",
+        "name": "24H",
+        "icon": "https://24h.com.vn/publisher_icon.png"
+      },
+      "origin_url": "https://24h.com.vn/cong-phuong-lap-cong.html",
+      "avatar": {
+        "href": "https://image.24h.com.vn/upload/1-2019/images/2019-03-07/1551953439-472-155185701824610-thumbnail.jpg",
+        "main_color": "#a2bdc4",
+        "width": 480,
+        "height": 640
+      },
+      "images": [
+        {
+          "href": "https://image.24h.com.vn/upload/1-2019/images/2019-03-07/1551953439-472-155185701824610-thumbnail.jpg",
+          "main_color": "#a2bdc4",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "href": "https://image.eva.vn/upload/1-2019/images/2019-01-28/1548673587-252-thumbnail.jpg",
+          "main_color": "#a2bdc4",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "content": null
+    },
+    {
+      "document_id": "94jpmnwm720",
+      "title": "Nỗi niềm thư ký \"ăn vụng\" với sếp đã có vợ",
+      "description": "Cũng như bao lần khác, họ lại gặp nhau, lại quấn lấy nhau không rời rồi sau đó lại trở về ngôi nhà của chính mình.",
+      "content_type": "article",
+      "published_date": "2019-03-04T00:05:00Z",
+      "publisher": {
+        "id": "ahf_24h",
+        "name": "24H",
+        "icon": "https://24h.com.vn/publisher_icon.png"
+      },
+      "origin_url": "https://24h.com.vn/cong-phuong-lap-cong.html",
+      "avatar": {
+        "href": "https://image.24h.com.vn/upload/1-2019/images/2019-03-08/1552009000-543-155123484723700-thumbnail.jpg",
+        "main_color": "#04313d",
+        "width": 480,
+        "height": 640
+      },
+      "images": [
+        {
+          "href": "https://cdn.24h.com.vn/upload/1-2019/images/2019-03-04/1551682235-928-doi-vo-tang-tiu-voi-nguoi-yeu-cu-toi-nhan-qua-bao-dau-don-den-nat-long-chong-ngoai-tinh-1551625531-width660height409.jpg",
+          "main_color": "#04313d",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "href": "https://image.24h.com.vn/upload/1-2019/images/2019-03-08/1552009000-543-155123484723700-thumbnail.jpg",
+          "main_color": "#04313d",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "href": "https://cdn.24h.com.vn/upload/4-2018/images/2018-10-29/1540807451-579-tam-su-cua-nguoi-dan-ba-trot-ngu-voi-chong-ban-than-ban-than-chong-1-1540806389-width660height414.jpg",
+          "main_color": "#04313d",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "content": null
+    },
+    {
+      "document_id": "j65zd71d3rl",
+      "title": "Mẹ trẻ Hà Nội sinh 8 đứa con sau 12 năm kết hôn: \"Tôi quên ngày 8/3 lâu rồi\"",
+      "description": "Vì lo cơm áo gạo tiền nên từ lâu, chị Hồng không còn nhớ ngày 8/3 là ngày tôn vinh phụ nữ và đã mười mấy năm qua chị chẳng nhận được lời chúc nào trong ngày này.",
+      "content_type": "article",
+      "published_date": "2019-03-04T00:05:00Z",
+      "publisher": {
+        "id": "ahf_24h",
+        "name": "eva.vn",
+        "icon": "https://24h.com.vn/publisher_icon.png"
+      },
+      "origin_url": "https://24h.com.vn/cong-phuong-lap-cong.html",
+      "avatar": {
+        "href": "https://image.eva.vn/upload/1-2019/images/2019-03-07/1551961555-544-thumbnail.jpg",
+        "main_color": "#615a96",
+        "width": 480,
+        "height": 640
+      },
+      "images": [
+        {
+          "href": "https://cdn.eva.vn/upload/1-2019/images/2019-03-07/me-tre-sinh-8-dua-con-sau-12-nam-ket-hon-o-ha-noi-toi-quen-ngay-83-lau-roi-hong4-1551961300-710-width600height400.jpg",
+          "main_color": "#615a96",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "href": "https://image.eva.vn/upload/1-2019/images/2019-03-07/1551961555-544-thumbnail.jpg",
+          "main_color": "#615a96",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "href": "https://cdn.eva.vn/upload/1-2019/images/2019-03-07/me-tre-sinh-8-dua-con-sau-12-nam-ket-hon-o-ha-noi-toi-quen-ngay-83-lau-roi-hong6-1551961300-412-width600height400.jpg",
+          "main_color": "#615a96",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "content": null
+    },
+    {
+      "document_id": "j65zd71d3rl",
+      "title": "Yêu thầm bao năm, cô gái chuốc say bạn thân để “lên giường”",
+      "description": "Yêu thầm bạn thân suốt nhiều năm, nhân lúc chàng trai lục đục với người yêu cô gái đã chuốc say để “lên giường”.",
+      "content_type": "video",
+      "published_date": "2019-03-04T00:05:00Z",
+      "publisher": {
+        "id": "ahf_24h",
+        "name": "eva.vn",
+        "icon": "https://24h.com.vn/publisher_icon.png"
+      },
+      "origin_url": "https://24h.com.vn/cong-phuong-lap-cong.html",
+      "avatar": {
+        "href": "https://image.eva.vn/upload/1-2019/images/2019-03-07/1551961555-544-thumbnail.jpg",
+        "main_color": "#71f442",
+        "width": 480,
+        "height": 640
+      },
+      "images": [
+        {
+          "href": "https://image.eva.vn/upload/1-2019/images/2019-01-28/1548673587-252-thumbnail.jpg",
+          "main_color": "#130e35",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "href": "https://image.eva.vn/upload/1-2019/images/2019-03-07/1551961555-544-thumbnail.jpg",
+          "main_color": "#130e35",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "href": "https://image.eva.vn/upload/1-2019/images/2019-01-28/1548673587-252-thumbnail.jpg",
+          "main_color": "#130e35",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "content": {
+        "href": "https://image.24h.com.vn/upload/1-2019/videoclip/2019-03-05/1551752286-955-1551749772-danhca_thanhxuan.mp4",
+        "preview_image": {
+          "href": "https://cdn.24h.com.vn/upload/2-2018/images/2018-04-12/1523526560-169-anh-anh-anh-1523525792-width660height495.jpg",
+          "main_color": "#130e35",
+          "width": 660,
+          "height": 495
+        },
+        "duration": 7426
+      }
+    },
+    {
+      "document_id": "v3pxzolz572",
+      "title": "Solskjaer đau đầu: MU dốc sức vô địch Cúp C1 hay đua top 4 Ngoại hạng Anh",
+      "description": "MU đã ghi danh vào tứ kết Champions League. Nhưng vào cuối tuần, phía trước \"Quỷ đỏ\" là đại chiến vô cùng quan trọng trên sân Arsenal. HLV Solskjaer sẽ đối phó với tình hình này thế nào?",
+      "content_type": "article",
+      "published_date": "2019-03-04T00:05:00Z",
+      "publisher": {
+        "id": "ahf_24h",
+        "name": "24H",
+        "icon": "https://24h.com.vn/publisher_icon.png"
+      },
+      "origin_url": "https://24h.com.vn/cong-phuong-lap-cong.html",
+      "avatar": {
+        "href": "https://cdn.24h.com.vn/upload/1-2019/images/2019-03-07/Solskjaer-dau-dau-MU-doc-suc-vo-dich-C1-hay-tap-trung-top-4-Ngoai-hang-10671330-6779099-image-a-66_1551909938177-660-1551975357-356-width660height417.jpg",
+        "main_color": "#020105",
+        "width": 480,
+        "height": 640
+      },
+      "images": [
+        {
+          "href": "https://cdn.24h.com.vn/upload/1-2019/images/2019-03-07/Solskjaer-dau-dau-MU-doc-suc-vo-dich-C1-hay-tap-trung-top-4-Ngoai-hang-doi-dau-lich-su-arsenal-vs-man-utd-vong-4-fa-cup-1551975357-357-width660height371.jpg",
+          "main_color": "#020105",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "href": "https://cdn.24h.com.vn/upload/1-2019/images/2019-03-07/MU-nguoc-dong-lich-su-ha-nhuc-PSG-1-ty-euro-mbappe_goal_glut-1551949602-954-width660height367.jpg",
+          "main_color": "#020105",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "href": "https://cdn.24h.com.vn/upload/1-2019/images/2019-03-07/MU-nguoc-dong-ha-PSG-Bi-an-chiec-ao-mu5-1551957832-996-width660height506.jpg",
+          "main_color": "#020105",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "content": null
+    },
+    {
+      "document_id": "y1zn79674kv",
+      "title": "Không tặng quà sang hàng hiệu, Ưng Hoàng Phúc",
+      "description": "Trước khi xa nhà đi lưu diễn, nam ca sĩ đã bí mật để lại bức thư ngọt ngào gửi vợ ngày 8/3.",
+      "content_type": "article",
+      "published_date": "2019-03-04T00:05:00Z",
+      "publisher": {
+        "id": "ahf_24h",
+        "name": "24H",
+        "icon": "https://24h.com.vn/publisher_icon.png"
+      },
+      "origin_url": "https://24h.com.vn/cong-phuong-lap-cong.html",
+      "avatar": {
+        "href": "https://image.24h.com.vn/upload/1-2019/images/2019-03-08/1552007249-752-uhp-3-1551946501-width640height480.jpg",
+        "main_color": "#ffffff",
+        "width": 480,
+        "height": 640
+      },
+      "images": null,
+      "content": null
+    },
+    {
+      "document_id": "v3pxzolz572",
+      "title": "MC Kỳ Duyên hé lộ về món quà 41 tỷ và quan hệ với bạn trai kém 8 tuổi",
+      "description": "Đây cũng là lần đầu tiên MC Kỳ Duyên lên tiếng về chuyện tình cảm của cô với Duy Hân sau 10 năm gắn bó.",
+      "content_type": "article",
+      "published_date": "2019-03-04T00:05:00Z",
+      "publisher": {
+        "id": "ahf_24h",
+        "name": "24H",
+        "icon": "https://24h.com.vn/publisher_icon.png"
+      },
+      "origin_url": "https://24h.com.vn/cong-phuong-lap-cong.html",
+      "avatar": {
+        "href": "https://image.24h.com.vn/upload/1-2019/images/2019-03-08/1552006309-810-untitled-1-1552006299-width640height480.jpg",
+        "main_color": "#ffffff",
+        "width": 480,
+        "height": 640
+      },
+      "images": [
+        {
+          "href": "https://cdn.24h.com.vn/upload/1-2019/images/2019-03-08/1552006309-888-mc-nguyen-cao-ky-duyen-chinh-thuc-len-tieng-ve-tin-don-chia-tay-ban-trai-kem-8-tuoi-ky---duye--n-va---ba--n-trai-4-1551954821-width640height381.jpg",
+          "main_color": "#ffffff",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "href": "https://cdn.24h.com.vn/upload/1-2019/images/2019-03-08/1552007098-680-mc-ky-duyen-he-lo-ve-mon-qua-41-ty-va-quan-he-voi-ban-trai-kem-8-tuoi-76b52fcfaf8e46d01f9f-1552007085-width700height1068.jpg",
+          "main_color": "#affcff",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "href": "https://cdn.24h.com.vn/upload/1-2019/images/2019-03-08/1552006310-977-mc-nguyen-cao-ky-duyen-chinh-thuc-len-tieng-ve-tin-don-chia-tay-ban-trai-kem-8-tuoi-ky---duye--n-tua----n-vu---1551954886-width2000height1857.jpg",
+          "main_color": "#efdfff",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "content": null
+    },
+    {
+      "document_id": "94jpmnwm720",
+      "title": "Chồng Lâm Khánh Chi tiết lộ \"nổi da gà\" trong lần đầu tiên gặp mặt vợ",
+      "description": "Xuất hiện tại \"Giải mã tri kỷ\", vợ chồng Lâm Khánh Chi lần đầu chia sẻ mối duyên từ cuộc gặp gỡ đầu tiên. ",
+      "content_type": "long_form",
+      "published_date": "2019-03-08T00:06:00Z",
+      "publisher": {
+        "id": "ahf_24h",
+        "name": "24H",
+        "icon": "https://24h.com.vn/publisher_icon.png"
+      },
+      "origin_url": "https://24h.com.vn/cong-phuong-lap-cong.html",
+      "avatar": null,
+      "images": [
+        {
+          "href": "https://image.eva.vn/upload/1-2019/images/2019-01-28/1548673587-252-thumbnail.jpg",
+          "main_color": "#ffffff",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "href": "https://image.eva.vn/upload/1-2019/images/2019-01-28/1548673587-252-thumbnail.jpg",
+          "main_color": "#efdfff",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "content": null
+    },
+    {
+      "document_id": "94jpmnwm720",
+      "title": "MU đại chiến Arsenal: Đối thủ hoảng loạn, \"Quỷ đỏ\" nhận tin mừng",
+      "description": "Rạng sáng nay (8/3/2019), Arsenal đã khiến các fan của mình cực kỳ thất vọng khi thua đau 1-3 trên đất Pháp khi bị chủ nhà Rennes đánh bại ở lượt đi vòng 1/8 Europa League. Đã vậy, \"Pháo thủ\" còn phải chịu thua thiệt quân số khi trung vệ Sokratis Papastathopoulos phải nhận thẻ đỏ vào phút 41, khiến cho cầu thủ trụ cột người Hy Lạp sẽ vắng mặt khi hai đội tái đấu nhau trong trận lượt về vào ngay giữa tuần sau (15/3).",
+      "content_type": "long_form",
+      "published_date": "2019-03-04T00:05:00Z",
+      "publisher": {
+        "id": "ahf_24h",
+        "name": "24H",
+        "icon": "https://24h.com.vn/publisher_icon.png"
+      },
+      "origin_url": "https://24h.com.vn/cong-phuong-lap-cong.html",
+      "avatar": {
+        "href": "https://cdn.24h.com.vn/upload/1-2019/images/2019-03-08/dai-chien-Arsenal-dang-hoang-loan-MU-nhan-tin-mung-tu-doi-thu-gap-hoa-72-1552009048-565-width660height438.jpg",
+        "main_color": "#ffffff",
+        "width": 480,
+        "height": 640
+      },
+      "images": [
+        {
+          "href": "https://cdn.24h.com.vn/upload/1-2019/images/2019-03-07/MU-nguoc-dong-ky-tich-doi-dau-voi-doi-nao-o-vong-tu-ket-Champions-League-1-660-1551917971-871-width660height440.jpg",
+          "main_color": "#ffffff",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "href": "https://cdn.24h.com.vn/upload/1-2019/images/2019-03-07/MU-nguoc-dong-ky-tich-doi-dau-voi-doi-nao-o-vong-tu-ket-Champions-League-1-660-1551917971-871-width660height440.jpg",
+          "main_color": "#efdfff",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "content": null
+    },
+    {
+      "document_id": "92o4n18ylkj",
+      "title": "Nguyễn Hồng Nhung: Tôi không chối bỏ scandal trong quá khứ",
+      "description": "Nguyễn Hồng Nhung trưởng thành từ cuộc thi Sao mai Điểm hẹn 2004, cùng thế hệ với Tùng Dương, Kasim Hoàng Vũ, Phương Linh, Hà Anh Tuấn… Đáng lý cô sẽ có một sự nghiệp rộng mở nhưng vì scandal ảnh nóng do người bạn trai cũ tung lên mạng mà Hồng Nhung phải lựa chọn ở ẩn rồi sang Mỹ định cư. Hồng Nhung đã trải qua những năm tháng vất vả trước khi tạo dựng được sự nghiệp ở xứ người. 14 năm sau, cô mới đủ can đảm để trở về Việt Nam, đứng trên sân khấu ca nhạc và đối diện với tất cả.",
+      "content_type": "long_form",
+      "published_date": "2019-03-07T17:05:14Z",
+      "publisher": {
+        "id": "ahf_24h",
+        "name": "24H",
+        "icon": "https://24h.com.vn/publisher_icon.png"
+      },
+      "origin_url": "https://24h.com.vn/cong-phuong-lap-cong.html",
+      "avatar": {
+        "href": "https://image.24h.com.vn/upload/1-2019/images/2019-03-07/1551930033-369-avts-1551929096-width640height480.jpg",
+        "main_color": "#ffffff",
+        "width": 480,
+        "height": 640
+      },
+      "images": [
+        {
+          "href": "https://image.24h.com.vn/upload/1-2019/images/2019-03-07/1551930033-369-avts-1551929096-width640height480.jpg",
+          "main_color": "#ffffff",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "href": "https://cdn.24h.com.vn/upload/1-2019/images/2019-03-07/MU-nguoc-dong-ky-tich-doi-dau-voi-doi-nao-o-vong-tu-ket-Champions-League-1-660-1551917971-871-width660height440.jpg",
+          "main_color": "#efdfff",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "content": null
+    },
+    {
+      "document_id": "v3pxzolz572",
+      "title": "Phim mới của Linh Miu vừa ra mắt đã nhận được nhiều ý kiến tranh luận.",
+      "description": "Cảnh Linh Miu dạy \"yêu\" chính thức lên sóng khiến khán giả bất ngờ",
+      "content_type": "video",
+      "published_date": "2019-03-07T19:00:00Z",
+      "publisher": {
+        "id": "ahf_24h",
+        "name": "24H",
+        "icon": "https://24h.com.vn/publisher_icon.png"
+      },
+      "origin_url": "https://www.24h.com.vn/giai-tri/canh-linh-miu-day-yeu-chinh-thuc-len-song-khien-khan-gia-bat-ngo-c731a1033625.html",
+      "avatar": {
+        "href": "https://image.24h.com.vn/upload/1-2019/images/2019-03-07/1551953361-748-untitled-1-1551945142-width640height480.jpg",
+        "main_color": "#ffffff",
+        "width": 480,
+        "height": 640
+      },
+      "images": [
+        {
+          "href": "https://image.24h.com.vn/upload/1-2019/images/2019-03-07/1551930033-369-avts-1551929096-width640height480.jpg",
+          "main_color": "#ffffff",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "href": "https://image.24h.com.vn/upload/1-2019/images/2019-03-07/1551953361-748-untitled-1-1551945142-width640height480.jpg",
+          "main_color": "#efdfff",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "content": {
+        "href": "https://image.24h.com.vn/upload/1-2019/videoclip/2019-03-07/1551953366-204-1551921648-nguoivomy.mp4",
+        "preview_image": {
+          "href": "https://image.24h.com.vn/upload/1-2019/images/2019-03-07/1551953361-748-untitled-1-1551945142-width640height480.jpg",
+          "main_color": "#ffffff",
+          "width": 640,
+          "height": 480
+        },
+        "duration": 7426
+      }
+    },
+    {
+      "document_id": "l6mgknqky10",
+      "title": "Diễn viên Hiền Mai tiết lộ thông tin bất ngờ về con trai 14 tuổi",
+      "description": "Diễn viên Hiền Mai cũng chia sẻ lý do chị thích sinh con gái hơn con trai.",
+      "content_type": "article",
+      "published_date": "2019-03-07T19:00:00Z",
+      "publisher": {
+        "id": "ahf_24h",
+        "name": "24H",
+        "icon": "https://24h.com.vn/publisher_icon.png"
+      },
+      "origin_url": "https://www.24h.com.vn/giai-tri/canh-linh-miu-day-yeu-chinh-thuc-len-song-khien-khan-gia-bat-ngo-c731a1033625.html",
+      "avatar": {
+        "href": "https://image.24h.com.vn/upload/1-2019/images/2019-03-08/1552007361-825-155200734462601-thumbnail.jpg",
+        "main_color": "#ffffff",
+        "width": 480,
+        "height": 640
+      },
+      "images": [
+        {
+          "href": "https://image.24h.com.vn/upload/1-2019/images/2019-03-07/1551930033-369-avts-1551929096-width640height480.jpg",
+          "main_color": "#ffffff",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "href": "https://image.24h.com.vn/upload/1-2019/images/2019-03-07/1551953361-748-untitled-1-1551945142-width640height480.jpg",
+          "main_color": "#efdfff",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "content": null
+    },
+    {
+      "document_id": "v3pxzolz572",
+      "title": "Lý Phương Châu đăng ảnh suất ăn của con, dân mạng lại \"réo tên\" Lâm Vinh Hải",
+      "description": "Lâm Vinh Hải đang tiếp tục trở thành đối tượng bị mỉa mai vì chuyện \"mặc cả từng đồng nuôi con\" sau tấm ảnh của Lý Phương Châu.",
+      "content_type": "video",
+      "published_date": "2019-03-07T19:00:00Z",
+      "publisher": {
+        "id": "ahf_24h",
+        "name": "24H",
+        "icon": "https://24h.com.vn/publisher_icon.png"
+      },
+      "origin_url": "https://www.24h.com.vn/giai-tri/canh-linh-miu-day-yeu-chinh-thuc-len-song-khien-khan-gia-bat-ngo-c731a1033625.html",
+      "avatar": {
+        "href": "https://image.eva.vn/upload/1-2019/images/2019-03-07/a4-1551927509-69-width640height480.jpg",
+        "main_color": "#ffffff",
+        "width": 480,
+        "height": 640
+      },
+      "images": [
+        {
+          "href": "https://image.eva.vn/upload/1-2019/images/2019-03-07/a4-1551927509-69-width640height480.jpg",
+          "main_color": "#ffffff",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "href": "https://image.eva.vn/upload/1-2019/images/2019-03-07/a4-1551927509-69-width640height480.jpg",
+          "main_color": "#efdfff",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "content": {
+        "href": "https://image.eva.vn/upload/1-2019/videoclip/2019-01-29/1548727675-lamvinhthuy.mp4",
+        "preview_image": {
+          "href": "https://image.eva.vn/upload/1-2019/images/2019-03-07/a4-1551927509-69-width640height480.jpg",
+          "main_color": "#ffffff",
+          "width": 640,
+          "height": 480
+        },
+        "duration": 7426
+      }
+    },
+    {
+      "document_id": "l6mgknqky10",
+      "title": "Nữ ca sĩ làm mẹ đơn thân tuổi 23, đi đẻ một mình, vừa sinh con vừa lau nước mắt",
+      "description": "Đơn thân nhưng cuộc sống của chị Thủy Bi không bao giờ đơn độc bởi luôn có con và bố mẹ đứng phía sau hậu thuẫn.",
+      "content_type": "article",
+      "published_date": "2019-03-07T19:00:00Z",
+      "publisher": {
+        "id": "ahf_24h",
+        "name": "24H",
+        "icon": "https://24h.com.vn/publisher_icon.png"
+      },
+      "origin_url": "https://www.24h.com.vn/giai-tri/canh-linh-miu-day-yeu-chinh-thuc-len-song-khien-khan-gia-bat-ngo-c731a1033625.html",
+      "avatar": {
+        "href": "https://image.eva.vn/upload/1-2019/images/2019-03-06/lm0603-j01-ava-1551845013-480-width640height480.jpg",
+        "main_color": "#ffffff",
+        "width": 480,
+        "height": 640
+      },
+      "images": [
+        {
+          "href": "https://image.24h.com.vn/upload/1-2019/images/2019-03-07/1551930033-369-avts-1551929096-width640height480.jpg",
+          "main_color": "#ffffff",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "href": "https://image.eva.vn/upload/1-2019/images/2019-03-06/lm0603-j01-ava-1551845013-480-width640height480.jpg",
+          "main_color": "#efdfff",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "href": "https://image.24h.com.vn/upload/1-2019/images/2019-03-07/1551925619-352-ha-ho-4-1551924420-width640height480.jpg",
+          "main_color": "#efdfff",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "content": null
+    },
+    {
+      "document_id": "l6mgknqky10",
+      "title": "Vẻ đẹp kiểu \"thời ông bà anh\" nữ tính hút hồn",
+      "description": "",
+      "content_type": "gallery",
+      "published_date": "2019-03-07T19:00:00Z",
+      "publisher": {
+        "id": "ahf_24h",
+        "name": "24H",
+        "icon": "https://24h.com.vn/publisher_icon.png"
+      },
+      "origin_url": "https://www.24h.com.vn/thoi-trang/ve-dep-kieu-thoi-ong-ba-anh-sexy-va-nu-tinh-den-nghet-tho-c78a1033681i392234.html",
+      "avatar": null,
+      "images": [
+        {
+          "href": "https://cdn.24h.com.vn/upload/1-2019/images/2019-03-07/1551976595-595-1-1551956087-width650height975.jpg",
+          "main_color": "#ffffff",
+          "width": 650,
+          "height": 975
+        },
+        {
+          "href": "https://cdn.24h.com.vn/upload/1-2019/images/2019-03-07/1551976595-449-2-1551956087-width650height975.jpg",
+          "main_color": "#efdfff",
+          "width": 650,
+          "height": 975
+        },
+        {
+          "href": "https://cdn.24h.com.vn/upload/1-2019/images/2019-03-07/1551976596-879-untitled-8-1551956087-width650height847.jpg",
+          "main_color": "#efdfff",
+          "width": 650,
+          "height": 847
+        },
+        {
+          "href": "https://cdn.24h.com.vn/upload/1-2019/images/2019-03-07/1551976597-334-untitled-11-1551956087-width650height975.jpg",
+          "main_color": "#efdfff",
+          "width": 650,
+          "height": 975
+        },
+        {
+          "href": "https://cdn.24h.com.vn/upload/1-2019/images/2019-03-07/1551976597-860-untitled-14-1551956087-width650height813.jpg",
+          "main_color": "#efdfff",
+          "width": 650,
+          "height": 813
+        }
+      ],
+      "content": null
+    }
+  ]
+}

@@ -11,7 +11,7 @@ import Foundation
 struct NFDetail: Codable {
     let id: String
     let title: String
-    let description: Int
+    let description: String
     let dateString: String
     let originURL: String
     let publisher: NFPublisher?
